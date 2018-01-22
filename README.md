@@ -1,5 +1,6 @@
 # SeedType
-Used machine learning to predict a seed type given kernel data. Created 6 machine learning models, picked the best, and showed 96% confidence in the accuracy of the model.
+
+This project uses machine learning to predict a seed type given kernel data. I created 6 machine learning models, picked the best one, and showed 96% confidence in the accuracy of the model.
 
 Used Python, Jupyter, SciKit Learn, Matplotlib, and Pandas.
 
